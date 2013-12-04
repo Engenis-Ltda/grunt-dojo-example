@@ -1,0 +1,23 @@
+{
+  "author": "",
+  "name": "grunt-dojo",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-ftp-upload": "~0.1.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-tpl": "~1.0.2",
+    "grunt-contrib-jade": "~0.8.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-coffee": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
